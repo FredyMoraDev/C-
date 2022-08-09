@@ -1,0 +1,3 @@
+C:/Users/crack/Documents/repositorio/C++/ejemploIf/cmake-build-debug/CMakeFiles/ejemploIf.dir
+C:/Users/crack/Documents/repositorio/C++/ejemploIf/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/crack/Documents/repositorio/C++/ejemploIf/cmake-build-debug/CMakeFiles/rebuild_cache.dir
