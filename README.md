@@ -1,1 +1,3 @@
-# C-
+# C++
+
+Proyectos desarrollados en C++
