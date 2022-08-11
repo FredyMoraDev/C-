@@ -1,0 +1,3 @@
+C:/Users/crack/Documents/repositorio/C++/promedios/cmake-build-debug/CMakeFiles/promedios.dir
+C:/Users/crack/Documents/repositorio/C++/promedios/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/crack/Documents/repositorio/C++/promedios/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/crack/Documents/repositorio/C++/arreglosConApuntadores/cmake-build-debug/CMakeFiles/arreglosConApuntadores.dir
+C:/Users/crack/Documents/repositorio/C++/arreglosConApuntadores/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/crack/Documents/repositorio/C++/arreglosConApuntadores/cmake-build-debug/CMakeFiles/rebuild_cache.dir
