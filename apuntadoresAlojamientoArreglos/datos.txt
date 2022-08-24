@@ -1,0 +1,19 @@
+	 Numero de datos del arreglo: 3
+
+	El numero en la posicion 1 es: 1
+
+	El resultado del numero multiplicado por 2 es: 2
+
+	El numero en la posicion 2 es: 2
+
+	El resultado del numero multiplicado por 2 es: 4
+
+	El numero en la posicion 3 es: 3
+
+	El resultado del numero multiplicado por 2 es: 6
+
+	Orden inverso: 3
+
+	Orden inverso: 2
+
+	Orden inverso: 1
