@@ -1,0 +1,3 @@
+C:/Users/crack/Documents/repositorio/C++/EstructurasListasPilasColas/cmake-build-debug/CMakeFiles/EstructurasListasPilasColas.dir
+C:/Users/crack/Documents/repositorio/C++/EstructurasListasPilasColas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/crack/Documents/repositorio/C++/EstructurasListasPilasColas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
