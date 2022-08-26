@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 struct books{
@@ -125,7 +124,7 @@ int main() {
     //Variables 6to programa.
     q4 = NULL;
     p4 = NULL,
-            caja_nueva2 = NULL;
+    caja_nueva2 = NULL;
     caja_final2 = NULL;
     //Variables 7mo programa.
     p6 = NULL;
@@ -141,10 +140,8 @@ int main() {
         cout << "5.- Colas" << endl;
         cout << "6.- Salir" << endl;
         cout << "                    " << endl;
-
         cout << "\nIntroduzca su opcion: "<< endl;
         cin >> opcion;
-
         switch (opcion) {
             case 1:
                 LlenarLista();
@@ -159,10 +156,8 @@ int main() {
                     cout << "\n1.- Lista ligada circular 1" << endl;
                     cout << "2.- Lista ligada circular 2" << endl;
                     cout << "3.- Salir al menu principal." << endl;
-
                     cout << "\nOpcion: "<< endl;
                     cin >> opcion2;
-
                     switch (opcion2) {
                         case 1:
                             LlenarListaC();
@@ -189,11 +184,9 @@ int main() {
                 do {
                     cout << "\n1.- Cola 1" << endl;
                     cout << "2.- Cola 2" << endl;
-                    cout << "3.- Salir al menu ppal." << endl;
-
+                    cout << "3.- Salir al menu principal." << endl;
                     cout << "\nOpcion: "<<endl;
                     cin >> opcion2;
-
                     switch (opcion2) {
                         case 1:
                             LlenarCola();
@@ -226,9 +219,8 @@ int main() {
 }
 bool OtraCaja(){
     char c;
-    cout << "\nPresione s para agregar otra caja: " << endl;
+    cout << "\nPresione S para agregar otra caja N para no: " << endl;
     cin >> c;
-
     return c == 's' || c == 'S';
 }
 
@@ -281,7 +273,6 @@ void LlenarListaD(){
         cout << "                    " << endl;
         q1->siguiente = p1;
         q1->anterior = NULL;
-
         if (p1 != NULL){
             p1->anterior = q1;
         }
