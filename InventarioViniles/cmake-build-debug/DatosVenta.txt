@@ -1,0 +1,11 @@
+ID: 1
+Username: dre
+Fecha de compra: 12
+Garant¡a: no
+Artista: 2
+Album: 2
+Color: 2
+Nacionalidad: 2
+Genero musical: 2
+Sello discografico: 2
+Precio del vinyl: 2
